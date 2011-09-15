@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.rubicon.core</groupId>
+  <artifactId>chendra</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20110914174121</lastUpdated>
+  </versioning>
+</metadata>
