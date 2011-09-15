@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.rubicon.core</groupId>
+  <groupId>com.rubicon.oss</groupId>
   <artifactId>mt-baker</artifactId>
   <versioning>
     <versions>
